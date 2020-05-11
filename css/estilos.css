@@ -1,0 +1,37 @@
+body {
+    background-image: url('https://i1.wp.com/cedem.com.br/2017/wp-content/uploads/2019/06/Background-site-04.jpg?ssl=1') ;
+    background-size: 250vh auto;
+    font-family: Arial;
+    height: 100vh
+   }
+  
+  .menu {
+    background-color: rgb(180,180,0, 0.5);
+  }
+  
+  a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .menu li {
+    list-style: none
+  }
+  
+  .site-title, .site-subtitle {
+    color: black;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
