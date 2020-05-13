@@ -1,2 +1,2 @@
-# sitepessoalrafa
-Site pessoal, imersão css
+# imersaoCSS
+Repositório para planejamento das aulas
